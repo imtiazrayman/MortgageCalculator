@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/atomic_age</item>
+        <item>@font/bangers</item>
+        <item>@font/geostar_fill</item>
+        <item>@font/im_fell_great_primer_sc</item>
+        <item>@font/julius_sans_one</item>
+    </array>
+</resources>
